@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Merge Sort
@@ -27,18 +29,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/Adarshjain275/DSA-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/Adarshjain275/DSA-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/Adarshjain275/DSA-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -50,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0621-task-scheduler) |
 ## Tree
 |  |
@@ -71,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
