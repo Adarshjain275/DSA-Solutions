@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
 | ------- |
@@ -25,13 +26,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [1331-rank-transform-of-an-array](https://github.com/Adarshjain275/DSA-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [1331-rank-transform-of-an-array](https://github.com/Adarshjain275/DSA-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [1331-rank-transform-of-an-array](https://github.com/Adarshjain275/DSA-Solutions/tree/master/1331-rank-transform-of-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
