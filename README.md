@@ -27,21 +27,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/Adarshjain275/DSA-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/Adarshjain275/DSA-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/Adarshjain275/DSA-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Greedy
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0846-hand-of-straights) |
 ## Counting
 |  |
 | ------- |
