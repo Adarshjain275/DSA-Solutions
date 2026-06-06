@@ -38,6 +38,5 @@ public:
             a = a->right;
         }
 
-        if(a->right) a->right = NULL;
     }
 };
