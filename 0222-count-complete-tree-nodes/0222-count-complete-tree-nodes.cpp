@@ -12,25 +12,25 @@
 class Solution {
     int leftheight(TreeNode* root)
     {
-        int height =0;
+        int height =1;
 
         while(root->left)
         {
             height++;
             root = root->left;
         }
-        return height+1;
+        return height;
     }
     int rightheight(TreeNode* root)
     {
-        int height =0;
+        int height =1;
 
         while(root->right)
         {
             height++;
             root = root->right;
         }
-        return height+1;
+        return height;
     }
 public:
     int countNodes(TreeNode* root) {
