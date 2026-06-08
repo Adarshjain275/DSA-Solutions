@@ -1,56 +1,49 @@
 class Solution {
-
 public:
-
-        int nextIndex(vector<int>& nums, int curr)
-        {
-            int n = nums.size();
-
-            return ((curr + nums[curr]) % n + n) % n;
-        }
-
-        bool detect(vector<int>& nums, int start)
-        {
-            bool dir = nums[start] > 0;
-
-            int slow = start;
-            int fast = start;
-
-            while(true)
-            {
-                if(nums[fast]==0 || nums[slow]==0) return false;
-                int nextSlow = nextIndex(nums, slow);
-
-                if((nums[slow] > 0) != dir || (nums[nextSlow] > 0) != dir) return false;
-
-                int nextFast = nextIndex(nums, fast);
-
-                if((nums[fast] > 0) != dir || (nums[nextFast] > 0) != dir) return false;
-
-                nextFast = nextIndex(nums, nextFast);
-
-                if((nums[nextFast] > 0) != dir) return false;
-                
-                slow = nextSlow;
-                fast = nextFast;
-
-                if(slow == fast)
-                {
-                    if(slow == nextIndex(nums, slow)) return false;   // self-loop
-
-                    return true;
-                }
-            }
-        }
+    // Function to calculate the next index
+    // The second % n handles negative results correctly in C++
+    int getNext(int curr, vector<int>& nums){
+        int n = nums.size();
+        return ((curr + nums[curr]) % n + n) % n;
+    }
 
     bool circularArrayLoop(vector<int>& nums) {
-        
-        for(int i=0; i<nums.size(); i++)
-        {
-            if(detect(nums, i)) return true;
-            nums[i] = 0;
-        }
+        int n = nums.size();
+    
+        for(int i = 0; i < n; i++){
+            if(nums[i] == 0) continue; 
+            
+            int slow = i, fast = i;
 
+            int iniDir = nums[i];
+            
+            while(true){
+                
+                if(nums[slow] * iniDir <= 0) break;
+                
+                
+                if(nums[fast] * iniDir <= 0) break;
+                
+                int nextFast = getNext(fast, nums);
+                if(nums[nextFast] * iniDir <= 0) break;
+                
+                slow = getNext(slow, nums);
+                fast = getNext(nextFast, nums);
+                
+                if(slow == fast)
+                {
+                    if(slow == getNext(slow, nums)) break;
+                    else return true;
+                } 
+            }
+            
+            int curr = i;
+            while(nums[curr] * iniDir > 0){
+                int next = getNext(curr, nums);
+                nums[curr] = 0;
+                curr = next;
+            }
+        }
         return false;
     }
 };
