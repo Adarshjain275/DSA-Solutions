@@ -18,6 +18,7 @@ public:
 
             while(true)
             {
+                if(nums[fast]==0 || nums[slow]==0) return false;
                 int nextSlow = nextIndex(nums, slow);
 
                 if((nums[slow] > 0) != dir || (nums[nextSlow] > 0) != dir) return false;
@@ -29,7 +30,7 @@ public:
                 nextFast = nextIndex(nums, nextFast);
 
                 if((nums[nextFast] > 0) != dir) return false;
-
+                
                 slow = nextSlow;
                 fast = nextFast;
 
@@ -47,6 +48,7 @@ public:
         for(int i=0; i<nums.size(); i++)
         {
             if(detect(nums, i)) return true;
+            nums[i] = 0;
         }
 
         return false;
