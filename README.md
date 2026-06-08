@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -27,9 +28,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Array
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -187,4 +191,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
