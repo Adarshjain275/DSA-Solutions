@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0457-circular-array-loop](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0621-task-scheduler) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0457-circular-array-loop](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0846-hand-of-straights) |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0457-circular-array-loop](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0457-circular-array-loop) |
 <!---LeetCode Topics End-->
