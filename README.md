@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0039-combination-sum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0457-circular-array-loop](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0457-circular-array-loop) |
@@ -235,5 +236,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0039-combination-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Adarshjain275/DSA-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
