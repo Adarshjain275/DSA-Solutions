@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0039-combination-sum) |
+| [0090-subsets-ii](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0090-subsets-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0457-circular-array-loop](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0457-circular-array-loop) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Adarshjain275/DSA-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Queue
@@ -237,5 +239,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0039-combination-sum) |
+| [0090-subsets-ii](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0090-subsets-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Adarshjain275/DSA-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
