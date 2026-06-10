@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Adarshjain275/DSA-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Queue
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0020-valid-parentheses) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Adarshjain275/DSA-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/Adarshjain275/DSA-Solutions/tree/master/1922-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Adarshjain275/DSA-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
