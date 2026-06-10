@@ -1,5 +1,5 @@
 class Solution {
-    void genpos(vector<string> &ans, int n, string &s)
+    void genpos(vector<string> &ans, int n, string s)
     {
         if(s.size()==n) 
         {
@@ -7,15 +7,12 @@ class Solution {
             return;
         }
 
-        s.push_back('1');
-        genpos(ans, n, s);
-        s.pop_back();
+        genpos(ans, n, s + '1');
+        
 
         if(s.empty()|| s.back() != '0')
         {
-            s.push_back('0');
-            genpos(ans, n, s);
-            s.pop_back();
+            genpos(ans, n, s+'0');
         }
     }   
 public:
