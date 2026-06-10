@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0846-hand-of-straights) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1331-rank-transform-of-an-array](https://github.com/Adarshjain275/DSA-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/Adarshjain275/DSA-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Adarshjain275/DSA-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adarshjain275/DSA-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Adarshjain275/DSA-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Indexed Tree
 |  |
 | ------- |
